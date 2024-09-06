@@ -1,5 +1,5 @@
 /**
- * author ： @XiaoMao
+ * author ： @CJQGBOT超级
  * # 小版本更新请查看更新日志 ｜ 或加入xiaomao组织⬇️
  * # 微信公众号 【小帽集团】
  * # XiaoMao · Tg频道频道：https://t.me/xiaomaoJT
