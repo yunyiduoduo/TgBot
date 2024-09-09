@@ -12,7 +12,7 @@ const apiReply = (id, useJson) => {
     method: "sendMessage",
     chat_id: id,
     text:
-      "<b>🕹 来自XiaoMaoBot的消息：</b>" +
+      "<b>🕹 来自兔大宝的消息：</b>" +
       "\n" +
       "\n" +
       "<b>您的查询指令已成功发送，本次查询过程中将受到运营商网络管制，若200s内无响应则此次通信将被异常终止，请稍后再试～</b>",
